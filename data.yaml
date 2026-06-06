@@ -1,0 +1,6 @@
+path: e:\git\computer-vision-pool-detection-project/dataset
+train: images/train
+val: images/val
+nc: 1
+names:
+- pool
